@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*outline: 1px solid red;*/
+}
+
+body{
+    background-image: url("./imagenes/2000_5e0f796d45514.jpg");
+    background-size: cover;
+}
+header{
+    height: 15%;
+    background: transparent;
+}
+
+main{
+    height: 75%;
+    background: transparent;
+}
+
+footer{
+    height: 10%;
+}
+
+.caro{
+    max-height: 3rem;
+}
+
+#navbarNavAltMarkup{
+color: white;    
+}
+
+.icono{
+    width: 30%;
+    height: 30%;
+    margin-left: 2em;
+    }
+
+.barra{
+    margin-left: 15em;
+    justify-content: space-between;
+    color: white;
+    border: white;
+}
+
+.col{
+    max-height: 45rem;
+    padding-top: .5rem;
+}
+
+.titulo{
+    font-size: 2rem;
+}
+
+.card-img-top{
+    height: 170px;
+}
+
+.input-group{
+    min-height: 3rem;
+}
+    
+td{
+  height: 2rem;  
+}
+
+.hte{
+    padding-bottom: 4.6rem;
+}
+
+.ht{
+    padding-top: 3rem;
+}
+
+.hc{
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+}
+
+.card-text{
+    min-width: 8rem;
+    min-height: 8rem;
+}
+
+.card-title{
+    min-width: 8rem;
+    min-height: 4rem;
+}
+
+.base{
+    font-size: 1.5rem;
+    color: white;
+}
+.button-navbar-toggler{
+    border-color: white;
+    border: solid 2px;
+
+}
+
+.filtro{
+    max-width: 50%;
+    padding-left: 0.5rem;
+} 
+
+.filtros{
+    display: inline-flex;    
+}
+
+.ubicar{
+    float: right !important;
+}
+
+.card_detalle{
+    max-height: 1rem;
+    background: transparent;
+}
+
+
+#detalle{
+    max-width: 50rem;
+ }
+
+ #carouselExample{
+    max-height: 4rem;
+    background-image: url("./imagenes/fondo_carrusel.jpg");
+ }
+
+ .caro{
+    max-height: 4rem;
+ }
+
+ .table-responsive{
+    background-color: #a1b5cb;
+    margin-bottom: .5rem;
+ }
+
+ h5{
+    height: 2.5rem;
+ }
+
+ h6{
+    max-width: 50rem;
+    height: 1.5rem;
+    text-align: start;  
+ }
